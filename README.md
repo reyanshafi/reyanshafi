@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Engineer+%E2%80%94+Geospatial+%2B+AI+Systems;Next.js+%7C+TypeScript+%7C+OpenLayers+%7C+Node.js;Building+platforms+that+scale+%E2%80%94+and+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+Geospatial+Engineer;MERN+%7C+Next.js+%7C+TypeScript+%7C+OpenLayers;Building+scalable+web+%26+spatial+systems." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:reyannshafi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/reyanshafi">
     <img src="https://komarev.com/ghpvc/?username=reyanshafi&label=Profile+Views&color=00D9FF&style=flat-square"/>
@@ -34,29 +34,58 @@
 ## `$ whoami`
 
 ```yaml
-name:       Rayan Shafi
-role:       Full Stack Developer · Geospatial Engineer
-location:   Jammu & Kashmir, India
-education:  B.Tech Computer Science — 2025
-employer:   The Green Bridge (GIS & Spatial Analytics)
-focus:      Scalable web systems · Spatial platforms · AI-driven dashboards
-contact:    reyannshafi@gmail.com
+name:        Rayan Shafi Dar
+location:    Awantipora, J&K, India
+education:   B.Tech Computer Science & Engineering — IUST, Kashmir (2021–2025)  |  CGPA: 7.5
+phone:       +91 9906512509
+email:       reyannshafi@gmail.com
+focus:       Full Stack Development · Geospatial Platforms · Real-Time Systems
 ```
 
 ---
 
-## `$ cat expertise.json`
+## `$ cat stack.json`
 
 ```json
 {
-  "frontend":    ["Next.js", "React", "TypeScript", "Tailwind CSS", "Shadcn UI", "Zustand"],
-  "backend":     ["Node.js", "Express.js", "REST APIs", "Socket.IO", "JWT / OAuth"],
+  "languages":   ["JavaScript", "TypeScript", "C/C++", "Python", "Java (Basic)"],
+  "frontend":    ["React.js", "Next.js", "Tailwind CSS", "Bootstrap", "Shadcn UI", "Zustand"],
+  "backend":     ["Node.js", "Express.js", "REST APIs", "Socket.IO", "JWT", "OAuth"],
   "databases":   ["MongoDB", "PostgreSQL", "Firebase"],
-  "geospatial":  ["OpenLayers", "GeoJSON", "KML", "OSM Nominatim", "Overpass API", "EPSG Projections"],
-  "devops":      ["Git", "GitHub Actions", "Vercel", "Docker (Advanced — in progress)"],
-  "ai_tooling":  ["Playwright", "Cheerio", "Custom scraping pipelines", "Analytics dashboards"]
+  "geospatial":  ["OpenLayers", "GeoJSON", "KML", "OSM Nominatim", "Overpass API", "EPSG:4326↔3857"],
+  "tools":       ["Git", "GitHub", "Postman", "Cloudinary", "Razorpay", "Playwright", "Cheerio"],
+  "design":      ["Figma", "Canva"],
+  "devops":      ["Vercel", "GitHub Actions", "Docker (in progress)"]
 }
 ```
+
+---
+
+## `$ cat experience.log`
+
+<br/>
+
+### 💼 &nbsp;Full Stack Developer — **The Green Bridge** &nbsp;`Oct 2025 – Present`&nbsp; *(Part-Time)*
+
+> GIS & Spatial Analytics Platform
+
+- Developing a geospatial mapping and analytics platform for visualizing and comparing location-based data
+- Collaborated on a **grid-based spatial querying** workflow to improve search performance across large regions
+- Integrated geocoding and boundary retrieval using **OSM Nominatim** & **Overpass APIs**
+- Working with map projections: **EPSG:4326 ↔ EPSG:3857**
+
+`Next.js` `TypeScript` `OpenLayers` `Tailwind CSS` `Shadcn UI` `Express.js` `Axios` `GeoJSON`
+
+<br/>
+
+### 💼 &nbsp;Freelance Full-Stack Developer — **Eptiro Ecosystem** &nbsp;`Nov 2025 – Present`&nbsp; *(Remote)*
+
+> Custom web solutions for travel and business clients
+
+- Built feature-rich platforms with admin dashboards, real-time pricing, and secure payment integration
+- Maintained direct client communication, scoped requirements, and managed end-to-end delivery
+
+`React.js` `Next.js` `PostgreSQL` `Tailwind CSS` `Razorpay`
 
 ---
 
@@ -64,55 +93,53 @@ contact:    reyannshafi@gmail.com
 
 <br/>
 
-### 🗺️ &nbsp;`geospatial-platform/` &nbsp;—&nbsp; *The Green Bridge*
+### 💬 &nbsp;`mini-social-network/` &nbsp;—&nbsp; Full-Stack MERN Application
 
-> Production spatial analytics platform for region-based dataset visualization and comparison.
+- Secure **JWT-based authentication** — registration, login, and protected routes
+- Real-time **one-on-one chat** via Socket.IO with typing indicators & message "seen" status
+- **Cloudinary** integration for media storage; 24-hour Stories with MongoDB **TTL indexing**
 
-| Detail | Info |
-|---|---|
-| **Highlights** | Grid-based spatial querying · Geocoding via OSM Nominatim · Boundary retrieval with Overpass API |
-| **Projections** | EPSG:4326 ↔ EPSG:3857 transformations |
-| **Stack** | `Next.js` `TypeScript` `OpenLayers` `Express` `GeoJSON` `Tailwind` |
+`React (Vite)` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `Cloudinary` `Zustand`&nbsp;&nbsp;[→ GitHub](#)
 
 <br/>
 
-### 🔥 &nbsp;`price-wise/` &nbsp;—&nbsp; *AndinoHack 2025*
+### 🔥 &nbsp;`price-wise/` &nbsp;—&nbsp; AI-Powered Price Comparison Platform
 
-> AI-powered price comparison engine tracking products across Amazon, Snapdeal & Croma.
+> AndinoHack 2025 Hackathon
 
-| Detail | Info |
-|---|---|
-| **Highlights** | Price prediction & drop alerts · Savings analytics dashboard · Automated scraping |
-| **Infra** | CI/CD via Vercel + cron jobs · Playwright + Cheerio pipeline |
-| **Stack** | `Next.js` `Node.js` `Firebase` `Playwright` `AI Logic` |
+- Price comparison across **Amazon, Snapdeal & Croma** with AI-based prediction & drop alerts
+- Detection of hidden costs via web scraping; interactive analytics dashboard for savings trends
+- Deployed via **Vercel** with CI/CD; cron jobs for automated price checks
 
-<br/>
-
-### 💬 &nbsp;`social-network/` &nbsp;—&nbsp; *Real-Time MERN Platform*
-
-> Full-featured social platform with real-time messaging and media storage.
-
-| Detail | Info |
-|---|---|
-| **Highlights** | JWT auth · Socket.IO chat with typing indicators & seen status · 24hr stories via MongoDB TTL |
-| **Storage** | Cloudinary media pipeline |
-| **Stack** | `React (Vite)` `Node.js` `MongoDB` `Socket.IO` `Zustand` |
+`Next.js` `Node.js` `Firebase` `Playwright` `Cheerio`&nbsp;&nbsp;[→ Live](#)
 
 <br/>
 
-### 🏥 &nbsp;`hospital-management/` &nbsp;—&nbsp; *AI-Driven Module*
+### 🎓 &nbsp;`iust-alumni-connect/` &nbsp;—&nbsp; Backend Developer
 
-> Critical patient triage system with real-time alert architecture for hospital staff.
+- Backend infrastructure for a **university alumni networking platform**
+- Role-based authentication for Admins and Alumni; RESTful API for user operations
+- Planning **LinkedIn API** integration for automated alumni tracking & profile syncing
+
+`Node.js` `Express.js` `MongoDB`&nbsp;&nbsp;[→ GitHub](#)
 
 <br/>
 
-### ✈️ &nbsp;`travel-booking/` &nbsp;—&nbsp; *Freelance*
+### 🏥 &nbsp;`hospital-management/` &nbsp;—&nbsp; AI-Driven Module
 
-> Production booking platforms with Razorpay integration, admin dashboards & real-time pricing.
+- Critical **Patient Alert System** with real-time alert architecture for hospital staff
+- Backend triage queuing, patient data categorization, and automated alert dispatch
 
-| Detail | Info |
-|---|---|
-| **Stack** | `Next.js` `PostgreSQL` `Razorpay` `Admin Dashboard` |
+[→ Live](#)
+
+<br/>
+
+### ✈️ &nbsp;`suwida-tours/` &nbsp;—&nbsp; Travel Booking Platform *(Freelance)*
+
+- Full-featured tour booking with **Razorpay** payment integration
+- Admin dashboard for real-time pricing, package management, and media updates
+
+`React.js` `Next.js` `Tailwind CSS` `PostgreSQL`&nbsp;&nbsp;[→ Live](#)
 
 ---
 
@@ -129,12 +156,22 @@ contact:    reyannshafi@gmail.com
 
 ---
 
+## `$ cat certifications.txt`
+
+```
+[2025]  AndinoHack 2025 Hackathon — Participant (Price-Wise project)
+[2024]  BitByte 2024 — Co-Organizer @ IUST (inter-college tech event: coding, web dev, robotics)
+[2024]  Complete Web Development Bootcamp — Udemy
+```
+
+---
+
 ## `$ cat roadmap_2026.md`
 
 ```diff
 + Master advanced DevOps — Docker, CI/CD pipelines, cloud infrastructure
 + Deepen DSA & system design for large-scale architecture
-+ Ship a scalable AI-driven SaaS product end-to-end
++ Build and ship a scalable AI-driven SaaS product end-to-end
 + Contribute to open-source geospatial tooling
 ```
 
@@ -143,15 +180,16 @@ contact:    reyannshafi@gmail.com
 ## `$ ping rayan`
 
 ```
-> If you're working on geospatial systems, AI-powered platforms,
-> scalable SaaS products, or full-stack architecture —
+> Open to roles in full-stack development, geospatial engineering,
+> or AI-powered platform engineering.
 >
-> Let's build something that matters.
+> Building something in these spaces? Let's talk.
 
-CONTACT: reyannshafi@gmail.com
-STATUS:  Open to collaboration
+  EMAIL  →  reyannshafi@gmail.com
+  PHONE  →  +91 9906512509
+  STATUS →  Available for collaboration & opportunities
 ```
 
 <div align="center">
-  <sub>crafted with precision · <a href="https://github.com/reyanshafi">@reyanshafi</a></sub>
+  <sub>crafted with precision · <a href="https://github.com/reyanshafi">@reyanshafi</a> · Awantipora, J&K, India</sub>
 </div>
