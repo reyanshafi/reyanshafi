@@ -1,141 +1,157 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rayan+Shafi;Full+Stack+Developer+%7C+Geospatial+Engineer;Building+Scalable+Web+Platforms;Next.js+%7C+TypeScript+%7C+GIS+%7C+AI" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-Engineering scalable web applications, geospatial platforms & AI-driven systems.
-</h3>
+```
+██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗    ███████╗██╗  ██╗ █████╗ ███████╗██╗
+██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║    ██╔════╝██║  ██║██╔══██╗██╔════╝██║
+██████╔╝███████║ ╚████╔╝ ███████║██╔██╗ ██║    ███████╗███████║███████║█████╗  ██║
+██╔══██╗██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║    ╚════██║██╔══██║██╔══██║██╔══╝  ██║
+██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║    ███████║██║  ██║██║  ██║██║     ██║
+╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-<p align="center">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Engineer+%E2%80%94+Geospatial+%2B+AI+Systems;Next.js+%7C+TypeScript+%7C+OpenLayers+%7C+Node.js;Building+platforms+that+scale+%E2%80%94+and+matter." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/reyanshafi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:reyannshafi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
   <a href="https://github.com/reyanshafi">
-    <img src="https://komarev.com/ghpvc/?username=reyanshafi&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=reyanshafi&label=Profile+Views&color=00D9FF&style=flat-square"/>
   </a>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-🎓 B.Tech Computer Science Graduate (2025)  
-💼 Full Stack Developer at **The Green Bridge** (GIS & Spatial Analytics)  
-🌍 Based in J&K, India  
-
-I specialize in building **scalable full-stack systems**, with strong experience in:
-
-- ⚡ Modern React & Next.js architectures  
-- 🗺️ Geospatial platforms (OpenLayers, GeoJSON, OSM APIs)  
-- 🔐 Secure authentication systems (JWT, OAuth)  
-- 📊 AI-driven analytics & real-time dashboards  
-- 💳 Production-grade payment integrations  
-
-I focus on **clean architecture, performance optimization, and real-world scalability.**
+```yaml
+name:       Rayan Shafi
+role:       Full Stack Developer · Geospatial Engineer
+location:   Jammu & Kashmir, India
+education:  B.Tech Computer Science — 2025
+employer:   The Green Bridge (GIS & Spatial Analytics)
+focus:      Scalable web systems · Spatial platforms · AI-driven dashboards
+contact:    reyannshafi@gmail.com
+```
 
 ---
 
-## 💼 Current Work
+## `$ cat expertise.json`
 
-### 🗺️ Geospatial Mapping Platform – The Green Bridge
-- Developing a spatial analytics platform for visualizing and comparing region-based datasets
-- Implemented grid-based spatial querying for optimized large-area searches
-- Integrated geocoding & boundary retrieval using OSM Nominatim & Overpass APIs
-- Working with projections (EPSG:4326 ↔ 3857)
-
-**Tech Stack:** Next.js, TypeScript, OpenLayers, Express, Tailwind, GeoJSON
-
----
-
-## 🧠 Featured Projects
-
-### 🔥 Price-Wise – AI Price Comparison Platform (AndinoHack 2025)
-- AI-powered product price tracking across Amazon, Snapdeal & Croma
-- Implemented price prediction & drop alerts
-- Built analytics dashboard for savings insights
-- Automated scraping with Playwright & Cheerio
-- CI/CD deployment with Vercel + cron jobs
-
-**Stack:** Next.js, Node.js, Firebase, Playwright, AI Logic
+```json
+{
+  "frontend":    ["Next.js", "React", "TypeScript", "Tailwind CSS", "Shadcn UI", "Zustand"],
+  "backend":     ["Node.js", "Express.js", "REST APIs", "Socket.IO", "JWT / OAuth"],
+  "databases":   ["MongoDB", "PostgreSQL", "Firebase"],
+  "geospatial":  ["OpenLayers", "GeoJSON", "KML", "OSM Nominatim", "Overpass API", "EPSG Projections"],
+  "devops":      ["Git", "GitHub Actions", "Vercel", "Docker (Advanced — in progress)"],
+  "ai_tooling":  ["Playwright", "Cheerio", "Custom scraping pipelines", "Analytics dashboards"]
+}
+```
 
 ---
 
-### 💬 Mini Social Network – Real-Time MERN Platform
-- Secure JWT authentication & protected REST APIs
-- Real-time chat with Socket.IO (typing indicators, seen status)
-- Cloudinary media storage
-- 24-hour stories with MongoDB TTL indexing
+## `$ ls -la projects/`
 
-**Stack:** React (Vite), Node.js, MongoDB, Socket.IO, Zustand
+<br/>
 
----
+### 🗺️ &nbsp;`geospatial-platform/` &nbsp;—&nbsp; *The Green Bridge*
 
-### 🏥 AI-Driven Hospital Management Module
-- Critical patient alert system
-- Backend triage & queuing logic
-- Real-time alert architecture for hospital staff
+> Production spatial analytics platform for region-based dataset visualization and comparison.
 
----
+| Detail | Info |
+|---|---|
+| **Highlights** | Grid-based spatial querying · Geocoding via OSM Nominatim · Boundary retrieval with Overpass API |
+| **Projections** | EPSG:4326 ↔ EPSG:3857 transformations |
+| **Stack** | `Next.js` `TypeScript` `OpenLayers` `Express` `GeoJSON` `Tailwind` |
 
-### ✈️ Travel Booking Platforms (Freelance)
-- Full-featured booking systems with Razorpay integration
-- Admin dashboards with real-time pricing control
-- PostgreSQL-based data modeling
+<br/>
 
----
+### 🔥 &nbsp;`price-wise/` &nbsp;—&nbsp; *AndinoHack 2025*
 
-## 🛠️ Technical Stack
+> AI-powered price comparison engine tracking products across Amazon, Snapdeal & Croma.
 
-### Frontend & UI
-React • Next.js • TypeScript • Tailwind CSS • Zustand • Shadcn UI
+| Detail | Info |
+|---|---|
+| **Highlights** | Price prediction & drop alerts · Savings analytics dashboard · Automated scraping |
+| **Infra** | CI/CD via Vercel + cron jobs · Playwright + Cheerio pipeline |
+| **Stack** | `Next.js` `Node.js` `Firebase` `Playwright` `AI Logic` |
 
-### Backend & APIs
-Node.js • Express.js • JWT/Auth • REST Architecture • Socket.IO
+<br/>
 
-### Databases
-MongoDB • PostgreSQL • Firebase
+### 💬 &nbsp;`social-network/` &nbsp;—&nbsp; *Real-Time MERN Platform*
 
-### Geospatial & Mapping
-OpenLayers • GeoJSON/KML • OSM APIs • Map Projections
+> Full-featured social platform with real-time messaging and media storage.
 
-### DevOps & Tools
-Git • GitHub Actions • Vercel • Docker (Learning Advanced CI/CD) • Postman
+| Detail | Info |
+|---|---|
+| **Highlights** | JWT auth · Socket.IO chat with typing indicators & seen status · 24hr stories via MongoDB TTL |
+| **Storage** | Cloudinary media pipeline |
+| **Stack** | `React (Vite)` `Node.js` `MongoDB` `Socket.IO` `Zustand` |
 
----
+<br/>
 
-## 📈 GitHub Analytics
+### 🏥 &nbsp;`hospital-management/` &nbsp;—&nbsp; *AI-Driven Module*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyanshafi&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyanshafi&theme=react&hide_border=true" height="165"/>
-</p>
+> Critical patient triage system with real-time alert architecture for hospital staff.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyanshafi&layout=compact&theme=react&hide_border=true" height="165"/>
-</p>
+<br/>
 
----
+### ✈️ &nbsp;`travel-booking/` &nbsp;—&nbsp; *Freelance*
 
-## 🎯 2026 Goals
+> Production booking platforms with Razorpay integration, admin dashboards & real-time pricing.
 
-- Master advanced DevOps (Docker, CI/CD pipelines, cloud infra)
-- Deepen DSA & system design expertise
-- Build scalable AI-driven SaaS product
-- Contribute to impactful geospatial tech
+| Detail | Info |
+|---|---|
+| **Stack** | `Next.js` `PostgreSQL` `Razorpay` `Admin Dashboard` |
 
 ---
 
-## 📫 Let's Connect
+## `$ git log --stats`
 
-If you're building something in:
-- Geospatial systems
-- AI-powered platforms
-- Scalable SaaS products
-- Full-stack architecture
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reyanshafi&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reyanshafi&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=6e7681" height="160"/>
+</div>
 
-Let’s collaborate.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyanshafi&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=c9d1d9" height="140"/>
+</div>
 
-📩 **reyannshafi@gmail.com**
+---
+
+## `$ cat roadmap_2026.md`
+
+```diff
++ Master advanced DevOps — Docker, CI/CD pipelines, cloud infrastructure
++ Deepen DSA & system design for large-scale architecture
++ Ship a scalable AI-driven SaaS product end-to-end
++ Contribute to open-source geospatial tooling
+```
+
+---
+
+## `$ ping rayan`
+
+```
+> If you're working on geospatial systems, AI-powered platforms,
+> scalable SaaS products, or full-stack architecture —
+>
+> Let's build something that matters.
+
+CONTACT: reyannshafi@gmail.com
+STATUS:  Open to collaboration
+```
+
+<div align="center">
+  <sub>crafted with precision · <a href="https://github.com/reyanshafi">@reyanshafi</a></sub>
+</div>
