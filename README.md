@@ -1,160 +1,195 @@
-# Hi, I'm Rayan Shafi 👋
+<h1 align="center">Hi, I'm Rayan Shafi 👋</h1>
 
-Full Stack Developer from Kashmir, India.
+<p align="center">
+Full Stack Developer • MERN Stack • Next.js • TypeScript • GIS
+</p>
 
-I build scalable web applications using the MERN stack with a strong focus on Next.js, TypeScript, and modern backend development. Currently, I work on GIS-based mapping and analytics platforms while also building custom products for clients through freelance projects.
+<p align="center">
+Building scalable web applications, geospatial platforms, and modern digital products.
+</p>
+
+<p align="center">
+<a href="https://rayanshafi.dev">Portfolio</a> •
+<a href="https://www.linkedin.com/in/reyanshafi">LinkedIn</a> •
+<a href="mailto:reyannshafi@gmail.com">Email</a>
+</p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-- 💼 Full Stack Developer at **The Green Bridge**
-- 🚀 Freelance Developer at **Eptiro Ecosystem**
-- 🌍 Interested in GIS, spatial data visualization, scalable web applications, and SaaS products
-- 🎓 B.Tech in Computer Science & Engineering (IUST)
+I'm a Full Stack Developer with over two years of experience building modern web applications using the MERN stack and Next.js.
+
+Currently, I work at **The Green Bridge**, contributing to GIS-based mapping and analytics solutions, while also building custom software for businesses through freelance projects.
+
+I enjoy designing scalable systems, clean APIs, intuitive user experiences, and products that solve real-world problems.
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
 
-**Frontend**
+### Frontend
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap" />
+</p>
 
-**Backend**
+### Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,figma,vscode" />
+</p>
+
+**Also working with**
+
+- OpenLayers
+- GeoJSON
+- OSM APIs
 - Socket.IO
-
-**Databases**
-
-- MongoDB
-- PostgreSQL
-- Firebase
-
-**Geospatial**
-
-- OpenLayers
-- GeoJSON
-- OSM APIs
-- Nominatim
-- Overpass API
-
-**Tools**
-
-- Git
-- GitHub
-- Docker
-- Postman
+- JWT Authentication
 - Cloudinary
-- Vercel
-- Figma
+- REST APIs
 
 ---
 
-## Experience
+## 💼 Experience
 
-### Full Stack Developer — The Green Bridge
-*Oct 2025 – Present*
+### Full Stack Developer
+**The Green Bridge** • *Oct 2025 – Present*
 
-Working on a GIS platform for mapping and spatial analytics.
+Building GIS-based mapping and analytics solutions focused on spatial data visualization and large-scale geographic search.
 
-- Geospatial data visualization
-- Spatial querying
-- OpenLayers
-- OSM APIs
-- GeoJSON
-- Next.js
-- TypeScript
+**Highlights**
 
----
-
-### Freelance Full Stack Developer — Eptiro Ecosystem
-*Nov 2025 – Present*
-
-Building custom web applications for businesses in travel and education.
-
-Projects include:
-
-- Corporate websites
-- Learning Management Systems
-- Admin dashboards
-- Booking platforms
-- Payment integrations
+- Interactive geospatial applications
+- Grid-based spatial querying
+- OpenLayers & GeoJSON
+- OSM Nominatim & Overpass APIs
+- Next.js & TypeScript
 
 ---
 
-## Featured Projects
+### Freelance Full Stack Developer
+**Eptiro Ecosystem** • *Nov 2025 – Present*
+
+Developing custom software solutions including business websites, Learning Management Systems, booking platforms, admin dashboards, and payment integrations.
+
+---
+
+## 🚀 Featured Projects
 
 ### Eptiro Ecosystem
 
-Corporate website integrated with a complete Learning Management System featuring role-based authentication, course management, learner dashboards, and scalable APIs.
+Corporate website integrated with a complete Learning Management System featuring:
 
-**Tech**
+- Role-based authentication
+- Course management
+- Instructor & student dashboards
+- Progress tracking
+- PostgreSQL backend
 
-Next.js • React • PostgreSQL • Tailwind CSS
+**Stack**
+
+`Next.js` `React` `Node.js` `PostgreSQL` `Tailwind CSS`
 
 ---
 
 ### Mini Social Network
 
-A full-stack MERN social platform featuring:
+A full-stack MERN social platform with real-time messaging.
+
+**Features**
 
 - JWT Authentication
-- Real-time chat
+- Socket.IO Chat
 - Stories
-- Cloudinary uploads
-- Socket.IO messaging
+- Cloudinary Uploads
+- REST APIs
+
+**Stack**
+
+`React` `Node.js` `MongoDB` `Socket.IO`
 
 ---
 
 ### Price-Wise
 
-AI-powered price comparison platform built during AndinoHack.
+AI-powered price comparison platform built during AndinoHack 2025.
 
-Features:
+**Features**
 
-- Price tracking
-- AI predictions
+- Price prediction
+- Price history
+- Automated web scraping
 - Analytics dashboard
-- Automated scraping
 
-**Tech**
+**Stack**
 
-Next.js • Node.js • Firebase • Playwright • Cheerio
+`Next.js` `Node.js` `Firebase` `Playwright`
 
 ---
 
 ### Saffron International Tour & Travel
 
-Tour booking platform with:
+Travel booking platform with secure online payments and a complete admin dashboard.
 
-- Package management
-- Booking system
-- Admin dashboard
-- Secure payments
+**Stack**
+
+`Next.js` `PostgreSQL` `Tailwind CSS`
 
 ---
 
-## GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=reyanshafi&show_icons=true&hide_border=true" height="160">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reyanshafi&hide_border=true" height="160">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=reyanshafi&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=reyanshafi&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyanshafi&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
+## 🌱 Currently Learning
 
-- Portfolio — https://rayanshafi.dev
-- LinkedIn — https://linkedin.com/in/reyanshafi
-- Email — reyannshafi@gmail.com
+- Docker
+- CI/CD
+- AWS
+- System Design
+- Distributed Systems
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on open-source projects, scalable web applications, GIS platforms, and SaaS products.
+
+<p>
+
+<a href="https://rayanshafi.dev">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/reyanshafi">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:reyannshafi@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
