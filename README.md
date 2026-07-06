@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rayan Shafi 👋</h1>
 
 <p align="center">
-Full Stack Developer • MERN Stack • Next.js • TypeScript • GIS
+Software Engineer & Developer
 </p>
 
 <p align="center">
